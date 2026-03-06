@@ -1,6 +1,6 @@
 # SM8250 Organization
 
-Development hub for SM8250 (Snapdragon 865/870) devices.
+Development hub for SM8250 (Snapdragon 870) devices.
 
 ### Supported Devices:
 * **Xiaomi Pad 6** (pipa)
