@@ -5,7 +5,7 @@ Development hub for SM8250 (Snapdragon 865/870) devices.
 ### Supported Devices:
 * **Xiaomi Pad 6** (pipa)
 * **OnePlus 9R** (lemonades)
-* 
+
 ## Telegram Device Group:
 
 [Support Group](https://t.me/the_usual_suspects_777)
